@@ -1,95 +1,110 @@
-# 🧩 Machine Learning Workshop – YunTech
+# 🧠 AI Programming Using Python – Workshop Repository
 
 > **Instructor:** Rasoul Ameri  
-> **Institution:** International Graduate School of Artificial Intelligence – YunTech  
-> **Workshop Focus:** Practical introduction to Python, Data Preparation, and Machine Learning Algorithms
+> **Workshop Title:** AI Programming Using Python  
+> **Focus Areas:** Python for Machine Learning • Data Preprocessing • Model Development • Explainable AI (SHAP)
 
 ---
 
 ## 🎯 Overview
 
-This workshop provides a hands-on introduction to data science and machine learning using Python.  
-Participants learned to set up their development environment, preprocess data, and build predictive models using popular libraries such as **NumPy**, **Pandas**, **Matplotlib**, and **scikit-learn**.
+This repository contains the complete materials from the **AI Programming Using Python** workshop conducted at the  
+**International Graduate School of Artificial Intelligence (YunTech)**.
 
-The materials are structured into five main modules:
+The program introduces participants to the **fundamentals of AI programming** through a hands-on, application-oriented approach.  
+It builds essential skills in **data analysis**, **machine learning model development**, and **model interpretability**, forming the foundation for a professional career in AI and Data Science.
 
----
-
-## 📘 Module 1 – Anaconda Setup
-**Folder:** [`1_Anaconda`](./1_Anaconda)
-
-- 🔧 Environment setup with **Anaconda**
-- 📦 Installing essential libraries
-- 🖼️ Notebook: [11_Anaconda.ipynb](./1_Anaconda/11_Anaconda.ipynb)
-
----
-
-## 🐍 Module 2 – Python Tutorial
-**Folder:** [`2_Python Tutorial`](./2_Python%20Tutorial)
-
-- Python basics and syntax
-- Working with **NumPy**, **Pandas**, and **Matplotlib**
-- 📘 Notebooks:
-  - [21_Python Basics.ipynb](./2_Python%20Tutorial/21_Python%20Basics.ipynb)
-  - [22_Numpy.ipynb](./2_Python%20Tutorial/22_Numpy.ipynb)
-  - [23_Pandas.ipynb](./2_Python%20Tutorial/23_Pandas.ipynb)
-  - [24_MatPlotlib.ipynb](./2_Python%20Tutorial/24_MatPlotlib.ipynb)
+### Learning Outcomes
+- Configure and manage Python environments using **Anaconda**  
+- Utilize **NumPy**, **Pandas**, and **Matplotlib** for numerical computation and data visualization  
+- Perform **data cleaning and preprocessing**  
+- Implement core **machine learning algorithms** for classification and regression using **scikit-learn**  
+- Apply **Explainable AI (XAI)** techniques using **SHAP** to interpret model predictions  
 
 ---
 
-## 🧹 Module 3 – Data Cleaning and Preparation
-**Folder:** [`3_Data Cleaning and Preparation`](./3_Data%20Cleaning%20and%20Preparation)
+## 🗺️ Machine Learning Engineer Roadmap
 
-- Handling missing values, encoding, and scaling
-- Visualizing distributions and correlations
-- 📘 Notebook: [31_Data Cleaning and Preparation.ipynb](./3_Data%20Cleaning%20and%20Preparation/31%20-%20Data%20Cleaning%20and%20Preparation.ipynb)
+The materials follow a **progressive learning roadmap**, designed to guide learners from basic programming toward advanced model interpretability and deployment.
 
----
-
-## 🔍 Module 4 – Classification vs. Regression
-**Folder:** [`4_Classification Vs Regression`](./4_Classification%20Vs%20Regression)
-
-- Conceptual comparison of supervised learning approaches
-- PowerPoint presentation: [Classification vs Regression.pptx](./4_Classification%20Vs%20Regression/Classification.vs.Regression.pptx)
+| Phase | Topic | Folder | Key Materials | Status |
+|-------|--------|---------|----------------|---------|
+| 🧩 1 | **Environment Setup** | [1_Anaconda](./1_Anaconda) | [11_Anaconda.ipynb](./1_Anaconda/11_Anaconda.ipynb) | ✅ |
+| 🐍 2 | **Python Foundations** | [2_Python Tutorial](./2_Python%20Tutorial) | [21_Python Basics.ipynb](./2_Python%20Tutorial/21_Python%20Basics.ipynb), [22_Numpy.ipynb](./2_Python%20Tutorial/22_Numpy.ipynb), [23_Pandas.ipynb](./2_Python%20Tutorial/23_Pandas.ipynb), [24_MatPlotlib.ipynb](./2_Python%20Tutorial/24_MatPlotlib.ipynb) | ✅ |
+| 🧹 3 | **Data Cleaning & Preparation** | [3_Data Cleaning and Preparation](./3_Data%20Cleaning%20and%20Preparation) | [31_Data Cleaning and Preparation.ipynb](./3_Data%20Cleaning%20and%20Preparation/31_Data%20Cleaning%20and%20Preparation.ipynb) | ✅ |
+| 🔍 4 | **Classification vs Regression** | [4_Classification Vs Regression](./4_Classification%20Vs%20Regression) | [Classification vs Regression.pptx](./4_Classification%20Vs%20Regression/Classification.vs.Regression.pptx) | ✅ |
+| 🤖 5 | **Supervised Learning Algorithms** | [5_Classification](./5_Classification) | Includes major classifiers such as Logistic Regression, KNN, SVM, Naive Bayes, Decision Tree, and Random Forest | ✅ |
+| 🧠 6 | **Explainable AI (XAI)** | [5_Classification/52 - KNN](./5_Classification/52%20-%20KNN) | [3_Shapey_values.ipynb](./5_Classification/52%20-%20KNN/3%20-%20Shapey_values.ipynb) | ✅ |
+| ⚙️ 7 | **Feature Engineering & Dimensionality Reduction** | *Coming Soon* | *(to be added)* | ⏳ |
+| 🔧 8 | **Regression Algorithms** | *Coming Soon* | *(Linear, Polynomial, Ridge, Lasso)* | ⏳ |
+| 🌐 9 | **Unsupervised Learning** | *Coming Soon* | *(K-Means, PCA, Hierarchical Clustering)* | ⏳ |
+| 🚀 10 | **Deployment (MLOps)** | *Coming Soon* | *(Streamlit, Docker, CI/CD)* | ⏳ |
+| 🔍 11 | **Advanced Explainable AI (LIME, DeepSHAP, ELI5)** | *Coming Soon* | *(to be added)* | ⏳ |
 
 ---
 
 ## 🤖 Module 5 – Classification Algorithms
-**Folder:** [`5_Classification`](./5_Classification)
 
-Explore fundamental algorithms for supervised classification:
+This module covers the core supervised learning algorithms used in AI and Data Science projects.
 
-| Algorithm | Folder | Key Notebook |
-|------------|---------|---------------|
-| Logistic Regression | [51 - Logistic Regression](./5_Classification/51%20-%20Logistic%20Regression) | [Logistic Regression.ipynb](./5_Classification/51%20-%20Logistic%20Regression/Logistic%20Regression.ipynb) |
-| K-Nearest Neighbors (KNN) | [52 - KNN](./5_Classification/52%20-%20KNN) | [1_KNN.ipynb](./5_Classification/52%20-%20KNN/1-%20KNN.ipynb) |
-| Support Vector Machine (SVM) | [53 - SVM](./5_Classification/53%20-%20SVM) | [SVM.ipynb](./5_Classification/53%20-%20SVM/SVM.ipynb) |
-| Naive Bayes | [54 - Naive Bayse](./5_Classification/54%20-%20Naive%20Bayse) | [Naive Bayse.ipynb](./5_Classification/54%20-%20Naive%20Bayse/Naive%20Bayse.ipynb) |
-| Decision Tree & Random Forest | [55 - Decision Tree and Random Forest](./5_Classification/55%20-%20Decission%20Tree%20and%20Random%20Forest) | *(Notebooks inside folder)* |
-
----
-
-## 🏛️ Institution
-<div align="center">
-  <img src="1_Anaconda/img/imgintro.png" width="60%">
-  <br>
-  <b>International Graduate School of Artificial Intelligence – YunTech</b>
-</div>
+| Algorithm | Folder | Key Notebooks |
+|------------|---------|----------------|
+| **Logistic Regression** | [51 - Logistic Regression](./5_Classification/51%20-%20Logistic%20Regression) | [Logistic Regression.ipynb](./5_Classification/51%20-%20Logistic%20Regression/Logistic%20Regression.ipynb) |
+| **K-Nearest Neighbors (KNN)** | [52 - KNN](./5_Classification/52%20-%20KNN) | [1_KNN.ipynb](./5_Classification/52%20-%20KNN/1-%20KNN.ipynb), [2_KNN GridSearchCV.ipynb](./5_Classification/52%20-%20KNN/2-%20KNN%20GridSearchCV.ipynb), [3_Shapey_values.ipynb](./5_Classification/52%20-%20KNN/3%20-%20Shapey_values.ipynb) |
+| **Support Vector Machine (SVM)** | [53 - SVM](./5_Classification/53%20-%20SVM) | [SVM.ipynb](./5_Classification/53%20-%20SVM/SVM.ipynb) |
+| **Naive Bayes** | [54 - Naive Bayse](./5_Classification/54%20-%20Naive%20Bayse) | [Naive Bayse.ipynb](./5_Classification/54%20-%20Naive%20Bayse/Naive%20Bayse.ipynb) |
+| **Decision Tree & Random Forest** | [55 - Decision Tree and Random Forest](./5_Classification/55%20-%20Decission%20Tree%20and%20Random%20Forest) | [Decission Tree and Random Forest.ipynb](./5_Classification/55%20-%20Decission%20Tree%20and%20Random%20Forest/Decission%20Tree%20and%20Random%20Forest.ipynb) |
 
 ---
 
-## 📅 Workshop Details
-- **Duration:** 2-day intensive training  
-- **Topics Covered:** Python, Data Handling, ML Algorithms  
-- **Tools:** Jupyter Notebook, Anaconda, NumPy, scikit-learn  
+## 🧩 Explainable AI (XAI)
+
+**Explainable AI (XAI)** helps understand how models make decisions, improving transparency and trust.  
+This workshop introduced **SHAP (SHapley Additive exPlanations)** to interpret model predictions at both the global and local level.
+
+### Topics Covered
+- Local and Global Interpretability  
+- Feature Importance Visualization  
+- SHAP Value Computation  
+- Transparency in Non-Linear Models  
+- Example Notebook → [3_Shapey_values.ipynb](./5_Classification/52%20-%20KNN/3%20-%20Shapey_values.ipynb)
+
+---
+
+## 📚 Repository Structure
+
+| Folder | Description | Key Files |
+|---------|--------------|-----------|
+| **1_Anaconda** | Environment setup and configuration | 11_Anaconda.ipynb |
+| **2_Python Tutorial** | Python basics and core libraries | 21_Python Basics.ipynb, 22_Numpy.ipynb, 23_Pandas.ipynb, 24_MatPlotlib.ipynb |
+| **3_Data Cleaning and Preparation** | Handling missing data, outliers, and preprocessing | 31_Data Cleaning and Preparation.ipynb |
+| **4_Classification Vs Regression** | Conceptual overview comparing classifiers and regressors | Classification vs Regression.pptx |
+| **5_Classification** | Practical implementation of supervised learning algorithms | Logistic Regression, KNN, SVM, Naive Bayes, Decision Tree, Random Forest |
+| **6_Regression** | *(Coming soon)* Linear, Polynomial, Ridge, Lasso Regression | — |
+| **7_Unsupervised Learning** | *(Coming soon)* K-Means, PCA, Hierarchical Clustering | — |
+| **8_Deep Learning** | *(Coming soon)* MLP, CNN, RNN models | — |
+| **9_Explainable AI (Advanced)** | *(Coming soon)* LIME, DeepSHAP, ELI5 | — |
+
+---
+
+## 🔮 Future Additions
+
+Planned topics to expand the **AI Programming and Machine Learning Engineer Roadmap** include:
+
+- 📊 **Feature Engineering** & Dimensionality Reduction  
+- 🔧 **Hyperparameter Optimization** (GridSearch, Bayesian Search)  
+- 🧮 **Model Evaluation and Bias Detection**  
+- ☁️ **MLOps and Streamlit Deployment**  
+- 🔍 **Advanced Explainability Techniques (LIME, DeepSHAP, ELI5)**  
 
 ---
 
 ## 📫 Contact
+
 **Rasoul Ameri**  
 📧 [rasoulameri@gmail.com](mailto:rasoulameri@gmail.com)  
 🔗 [GitHub Profile](https://github.com/rasoulameri)
 
 ---
 
-> 🧩 _This repository contains all the instructional materials and notebooks from the YunTech Machine Learning Workshop._
+> 🧩 _This repository serves as a complete and evolving learning path for mastering **AI Programming Using Python**, guiding learners from environment setup to advanced explainable machine learning systems._
