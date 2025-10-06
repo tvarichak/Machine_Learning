@@ -23,7 +23,7 @@ It builds essential skills in **data analysis**, **machine learning model develo
 
 ---
 
-## 🗺️ Machine Learning Engineer Roadmap
+## 🗺️ Repository Structure for Machine learning via Explainability
 
 The materials follow a **progressive learning roadmap**, designed to guide learners from basic programming toward advanced model interpretability and deployment.
 
@@ -70,7 +70,7 @@ This workshop introduced **SHAP (SHapley Additive exPlanations)** to interpret m
 - Example Notebook → [3_Shapey_values.ipynb](./5_Classification/52_KNN/5203_Shapey_values.ipynb)
 
 ---
-
+<!--
 ## 📚 Repository Structure
 
 | Folder | Description | Key Files |
@@ -86,7 +86,7 @@ This workshop introduced **SHAP (SHapley Additive exPlanations)** to interpret m
 | **9_Explainable AI (Advanced)** | *(Coming soon)* LIME, DeepSHAP, ELI5 | — |
 
 ---
-
+-->
 ## 🔮 Future Additions
 
 Planned topics to expand the **AI Programming and Machine Learning Engineer Roadmap** include:
