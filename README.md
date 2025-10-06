@@ -31,10 +31,10 @@ The materials follow a **progressive learning roadmap**, designed to guide learn
 |-------|--------|---------|----------------|---------|
 | 🧩 1 | **Environment Setup** | [1_Anaconda](./1_Anaconda) | [11_Anaconda.ipynb](./1_Anaconda/11_Anaconda.ipynb) | ✅ |
 | 🐍 2 | **Python Foundations** | [2_Python Tutorial](./2_Python%20Tutorial) | [21_Python Basics.ipynb](./2_Python%20Tutorial/21_Python%20Basics.ipynb), [22_Numpy.ipynb](./2_Python%20Tutorial/22_Numpy.ipynb), [23_Pandas.ipynb](./2_Python%20Tutorial/23_Pandas.ipynb), [24_MatPlotlib.ipynb](./2_Python%20Tutorial/24_MatPlotlib.ipynb) | ✅ |
-| 🧹 3 | **Data Cleaning & Preparation** | [3_Data Cleaning and Preparation](./3_Data%20Cleaning%20and%20Preparation) | [31_Data Cleaning and Preparation.ipynb](./3_Data%20Cleaning%20and%20Preparation/31_Data%20Cleaning%20and%20Preparation.ipynb) | ✅ |
-| 🔍 4 | **Classification vs Regression** | [4_Classification Vs Regression](./4_Classification%20Vs%20Regression) | [Classification vs Regression.pptx](./4_Classification%20Vs%20Regression/Classification.vs.Regression.pptx) | ✅ |
+| 🧹 3 | **Data Cleaning & Preparation** | [3_Data Cleaning and Preparation](./3_Data%20Cleaning%20and%20Preparation) | [31_Data Cleaning and Preparation.ipynb](./[3_Data%20Cleaning%20and%20Preparation/31_Data%20Cleaning%20and%20Preparation.ipynb](./3_Data%20Cleaning%20and%20Preparation/31_data_cleaning_preparation.ipynb)) | ✅ |
+| 🔍 4 | **Classification vs Regression** | [4_Classification Vs Regression](./4_Classification%20Vs%20Regression) | [Classification vs Regression.pptx](./4_Classification%20Vs%20Regression/41_Classification.vs.Regression.pptx) | ✅ |
 | 🤖 5 | **Supervised Learning Algorithms** | [5_Classification](./5_Classification) | Includes major classifiers such as Logistic Regression, KNN, SVM, Naive Bayes, Decision Tree, and Random Forest | ✅ |
-| 🧠 6 | **Explainable AI (XAI)** | [5_Classification/52 - KNN](./5_Classification/52%20-%20KNN) | [3_Shapey_values.ipynb](./5_Classification/52%20-%20KNN/3%20-%20Shapey_values.ipynb) | ✅ |
+| 🧠 6 | **Explainable AI (XAI)** | [5_Classification/52 - KNN](./5_Classification/52%20-%20KNN) | [3_Shapey_values.ipynb](./5_Classification/52%20-%20KNN/5203_Shapey_values.ipynb) | ✅ |
 | ⚙️ 7 | **Feature Engineering & Dimensionality Reduction** | *Coming Soon* | *(to be added)* | ⏳ |
 | 🔧 8 | **Regression Algorithms** | *Coming Soon* | *(Linear, Polynomial, Ridge, Lasso)* | ⏳ |
 | 🌐 9 | **Unsupervised Learning** | *Coming Soon* | *(K-Means, PCA, Hierarchical Clustering)* | ⏳ |
@@ -49,11 +49,11 @@ This module covers the core supervised learning algorithms used in AI and Data S
 
 | Algorithm | Folder | Key Notebooks |
 |------------|---------|----------------|
-| **Logistic Regression** | [51 - Logistic Regression](./5_Classification/51%20-%20Logistic%20Regression) | [Logistic Regression.ipynb](./5_Classification/51%20-%20Logistic%20Regression/Logistic%20Regression.ipynb) |
-| **K-Nearest Neighbors (KNN)** | [52 - KNN](./5_Classification/52%20-%20KNN) | [1_KNN.ipynb](./5_Classification/52%20-%20KNN/1-%20KNN.ipynb), [2_KNN GridSearchCV.ipynb](./5_Classification/52%20-%20KNN/2-%20KNN%20GridSearchCV.ipynb), [3_Shapey_values.ipynb](./5_Classification/52%20-%20KNN/3%20-%20Shapey_values.ipynb) |
-| **Support Vector Machine (SVM)** | [53 - SVM](./5_Classification/53%20-%20SVM) | [SVM.ipynb](./5_Classification/53%20-%20SVM/SVM.ipynb) |
-| **Naive Bayes** | [54 - Naive Bayse](./5_Classification/54%20-%20Naive%20Bayse) | [Naive Bayse.ipynb](./5_Classification/54%20-%20Naive%20Bayse/Naive%20Bayse.ipynb) |
-| **Decision Tree & Random Forest** | [55 - Decision Tree and Random Forest](./5_Classification/55%20-%20Decission%20Tree%20and%20Random%20Forest) | [Decission Tree and Random Forest.ipynb](./5_Classification/55%20-%20Decission%20Tree%20and%20Random%20Forest/Decission%20Tree%20and%20Random%20Forest.ipynb) |
+| **Logistic Regression** | [51 - Logistic Regression](./5_Classification/51%20-%20Logistic%20Regression) | [Logistic Regression.ipynb](./5_Classification/51%20-%20Logistic%20Regression/5101_Logistic%20Regression.ipynb) |
+| **K-Nearest Neighbors (KNN)** | [52 - KNN](./5_Classification/52%20-%20KNN) | [1_KNN.ipynb](./5_Classification/5201_KNN.ipynb), [2_KNN GridSearchCV.ipynb](./5_Classification/5202_KNN/2-%20KNN%20GridSearchCV.ipynb), [3_Shapey_values.ipynb](./5_Classification/5203_KNN/3%20-%20Shapey_values.ipynb) |
+| **Support Vector Machine (SVM)** | [53 - SVM](./5_Classification/53%20-%20SVM) | [SVM.ipynb](./5_Classification/5301_SVM/SVM.ipynb) |
+| **Naive Bayes** | [54 - Naive Bayse](./5_Classification/54%20-%20Naive%20Bayse) | [Naive Bayse.ipynb](./5_Classification/5401_Bayse/Naive%20Bayse.ipynb) |
+| **Decision Tree & Random Forest** | [55 - Decision Tree and Random Forest](./5_Classification/55%20-%20Decission%20Tree%20and%20Random%20Forest) | [Decission Tree and Random Forest.ipynb](./5_Classification/5501_Decission%20Tree%20and%20Random%20Forest/Decission%20Tree%20and%20Random%20Forest.ipynb) |
 
 ---
 
