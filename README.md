@@ -106,5 +106,3 @@ Planned topics to expand the **AI Programming and Machine Learning Engineer Road
 🔗 [GitHub Profile](https://github.com/rasoulameri)
 
 ---
-
-> 🧩 _This repository serves as a complete and evolving learning path for mastering **AI Programming Using Python**, guiding learners from environment setup to advanced explainable machine learning systems._
