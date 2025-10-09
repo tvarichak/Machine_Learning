@@ -102,7 +102,7 @@ Planned topics to expand the **AI Programming and Machine Learning Engineer Road
 ## 📫 Contact
 
 **Rasoul Ameri**  
-📧 [rasoulameri@gmail.com](mailto:rasoulameri90@gmail.com)  
+📧 [rasoulameri90@gmail.com](mailto:rasoulameri90@gmail.com)  
 🔗 [GitHub Profile](https://github.com/rasoulameri)
 
 ---
